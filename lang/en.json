@@ -1,0 +1,11 @@
+{
+    "Hello": "Hello",
+    "Team": "Team :Team",
+    "Password Reset": "Password Reset",
+    "You have received this email because a request to reset your password for your account was received.": "You have received this email because a request to reset your password for your account was received.",
+    "Reset Password": "Reset Password",
+    "The link to reset your password will expire in 60 minutes.": "The link to reset your password will expire in 60 minutes.",
+    "If you did not request a password reset, please ignore this message.": "If you did not request a password reset, please ignore this message.",
+    "Password reset link has been sent to your email.": "Password reset link has been sent to your email.",
+    "An error occurred while sending the email.": "An error occurred while sending the email."
+}

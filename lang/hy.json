@@ -1,0 +1,11 @@
+{
+    "Hello": "Բարև",
+    "Team": " :Team Թիմ",
+    "Password Reset": "Գաղտնաբառի վերականգնում",
+    "You have received this email because a request to reset your password for your account was received.": "Դուք ստացել եք այս նամակը, քանի որ ձեր հաշվի համար գաղտնաբառի վերականգնման հայտարարություն է ստացվել։",
+    "Reset Password": "Գաղտնաբառը վերականգնել",
+    "The link to reset your password will expire in 60 minutes.": "Գաղտնաբառի վերականգնման հղումը անվավեր է 60 րոպեի։",
+    "If you did not request a password reset, please ignore this message.": "Եթե դուք չեք հարցնում գաղտնաբառի վերականգնումը, խնդրում ենք անտեսել այս նամակը։",
+    "Password reset link has been sent to your email.": "Գաղտնաբառի վերականգնման հղումը ուղարկվել է ձեր էլ․փոստին։",
+    "An error occurred while sending the email.": "Խափանվեց նամակի ուղարկման ընթացքում։"
+}
